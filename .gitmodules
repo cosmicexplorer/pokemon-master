@@ -1,0 +1,6 @@
+[submodule "pokemon-showdown"]
+	path = pokemon-showdown
+	url = git@github.com:cosmicexplorer/pokemon-showdown
+[submodule "pokemon-showdown-client"]
+	path = pokemon-showdown-client
+	url = git@github.com:cosmicexplorer/pokemon-showdown-client
